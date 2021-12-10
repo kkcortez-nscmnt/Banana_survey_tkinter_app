@@ -9,7 +9,7 @@ Sua finalidade é totalmente didática a fim de introduzir os conceitos base do 
 São apresentados os seguintes conceitos:
 
 * Anatomia de uma aplicação Tkinter.
-* Sistema de hierarquia na deposito de widgets na aplicação.
+* Sistema de hierarquia no deposito de widgets na aplicação.
 * Métodos de depositos geométricos dos widgets (pack e grid).
 * Conceito de variáveis de controle (events-bind-callback)
 
